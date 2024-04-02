@@ -13,6 +13,30 @@
 		DA1C0D112BBBBA850030F5D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D0F2BBBBA850030F5D4 /* Main.storyboard */; };
 		DA1C0D132BBBBA870030F5D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D122BBBBA870030F5D4 /* Assets.xcassets */; };
 		DA1C0D162BBBBA870030F5D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D142BBBBA870030F5D4 /* LaunchScreen.storyboard */; };
+		DA1C0D1F2BBBBD2B0030F5D4 /* GirdBasedCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D1E2BBBBD2B0030F5D4 /* GirdBasedCollectionViewController.swift */; };
+		DA1C0D232BBBC1BB0030F5D4 /* FirstCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D212BBBC1BB0030F5D4 /* FirstCollectionViewCell.swift */; };
+		DA1C0D242BBBC1BB0030F5D4 /* FirstCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D222BBBC1BB0030F5D4 /* FirstCollectionViewCell.xib */; };
+		DA1C0D292BBBC5450030F5D4 /* CollectionViewInsideTVController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D282BBBC5450030F5D4 /* CollectionViewInsideTVController.swift */; };
+		DA1C0D2D2BBBCC730030F5D4 /* SecondMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D2C2BBBCC730030F5D4 /* SecondMain.storyboard */; };
+		DA1C0D302BBBCF260030F5D4 /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D2E2BBBCF260030F5D4 /* CollectionTableViewCell.swift */; };
+		DA1C0D312BBBCF260030F5D4 /* CollectionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D2F2BBBCF260030F5D4 /* CollectionTableViewCell.xib */; };
+		DA1C0D342BBBD2E20030F5D4 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D322BBBD2E20030F5D4 /* CollectionViewCell.swift */; };
+		DA1C0D352BBBD2E20030F5D4 /* CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D332BBBD2E20030F5D4 /* CollectionViewCell.xib */; };
+		DA1C0D382BBBDD620030F5D4 /* CVHeaderFooter.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D372BBBDD620030F5D4 /* CVHeaderFooter.storyboard */; };
+		DA1C0D3A2BBBDD7D0030F5D4 /* CollectionViewHeaderFooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D392BBBDD7D0030F5D4 /* CollectionViewHeaderFooterViewController.swift */; };
+		DA1C0D3D2BBBE3720030F5D4 /* InstragramStory.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D3C2BBBE3720030F5D4 /* InstragramStory.storyboard */; };
+		DA1C0D3F2BBBE3830030F5D4 /* InstagramStoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D3E2BBBE3830030F5D4 /* InstagramStoryViewController.swift */; };
+		DA1C0D432BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D412BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.swift */; };
+		DA1C0D442BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D422BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.xib */; };
+		DA1C0D472BBBFBD10030F5D4 /* CollectionViewGridProgrammaticallyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D462BBBFBD10030F5D4 /* CollectionViewGridProgrammaticallyViewController.swift */; };
+		DA1C0D4A2BBC026B0030F5D4 /* WaterFall.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D492BBC026B0030F5D4 /* WaterFall.storyboard */; };
+		DA1C0D4C2BBC028A0030F5D4 /* WaterFallCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D4B2BBC028A0030F5D4 /* WaterFallCollectionViewController.swift */; };
+		DA1C0D512BBC16B10030F5D4 /* HeaderCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D4F2BBC16B00030F5D4 /* HeaderCollectionReusableView.swift */; };
+		DA1C0D522BBC16B10030F5D4 /* HeaderCollectionReusableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA1C0D502BBC16B10030F5D4 /* HeaderCollectionReusableView.xib */; };
+		DA1C0D542BBC182F0030F5D4 /* FooterCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D532BBC182F0030F5D4 /* FooterCollectionReusableView.swift */; };
+		DA1C0D572BBC1EE00030F5D4 /* ProgramaticallyCollectionViewHeaderFooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D562BBC1EE00030F5D4 /* ProgramaticallyCollectionViewHeaderFooterViewController.swift */; };
+		DA1C0D5A2BBC20C70030F5D4 /* HeaderCollectionReusableViewProgramatically.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D592BBC20C70030F5D4 /* HeaderCollectionReusableViewProgramatically.swift */; };
+		DA1C0D5C2BBC21B70030F5D4 /* FooterCollectionReusableViewProgramatically.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1C0D5B2BBC21B70030F5D4 /* FooterCollectionReusableViewProgramatically.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +48,30 @@
 		DA1C0D122BBBBA870030F5D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA1C0D152BBBBA870030F5D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA1C0D172BBBBA870030F5D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA1C0D1E2BBBBD2B0030F5D4 /* GirdBasedCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirdBasedCollectionViewController.swift; sourceTree = "<group>"; };
+		DA1C0D212BBBC1BB0030F5D4 /* FirstCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstCollectionViewCell.swift; sourceTree = "<group>"; };
+		DA1C0D222BBBC1BB0030F5D4 /* FirstCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FirstCollectionViewCell.xib; sourceTree = "<group>"; };
+		DA1C0D282BBBC5450030F5D4 /* CollectionViewInsideTVController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewInsideTVController.swift; sourceTree = "<group>"; };
+		DA1C0D2C2BBBCC730030F5D4 /* SecondMain.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SecondMain.storyboard; sourceTree = "<group>"; };
+		DA1C0D2E2BBBCF260030F5D4 /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
+		DA1C0D2F2BBBCF260030F5D4 /* CollectionTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionTableViewCell.xib; sourceTree = "<group>"; };
+		DA1C0D322BBBD2E20030F5D4 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		DA1C0D332BBBD2E20030F5D4 /* CollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionViewCell.xib; sourceTree = "<group>"; };
+		DA1C0D372BBBDD620030F5D4 /* CVHeaderFooter.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CVHeaderFooter.storyboard; sourceTree = "<group>"; };
+		DA1C0D392BBBDD7D0030F5D4 /* CollectionViewHeaderFooterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewHeaderFooterViewController.swift; sourceTree = "<group>"; };
+		DA1C0D3C2BBBE3720030F5D4 /* InstragramStory.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = InstragramStory.storyboard; sourceTree = "<group>"; };
+		DA1C0D3E2BBBE3830030F5D4 /* InstagramStoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramStoryViewController.swift; sourceTree = "<group>"; };
+		DA1C0D412BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramStoryCollectionViewCell.swift; sourceTree = "<group>"; };
+		DA1C0D422BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InstagramStoryCollectionViewCell.xib; sourceTree = "<group>"; };
+		DA1C0D462BBBFBD10030F5D4 /* CollectionViewGridProgrammaticallyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewGridProgrammaticallyViewController.swift; sourceTree = "<group>"; };
+		DA1C0D492BBC026B0030F5D4 /* WaterFall.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = WaterFall.storyboard; sourceTree = "<group>"; };
+		DA1C0D4B2BBC028A0030F5D4 /* WaterFallCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterFallCollectionViewController.swift; sourceTree = "<group>"; };
+		DA1C0D4F2BBC16B00030F5D4 /* HeaderCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCollectionReusableView.swift; sourceTree = "<group>"; };
+		DA1C0D502BBC16B10030F5D4 /* HeaderCollectionReusableView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HeaderCollectionReusableView.xib; sourceTree = "<group>"; };
+		DA1C0D532BBC182F0030F5D4 /* FooterCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterCollectionReusableView.swift; sourceTree = "<group>"; };
+		DA1C0D562BBC1EE00030F5D4 /* ProgramaticallyCollectionViewHeaderFooterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramaticallyCollectionViewHeaderFooterViewController.swift; sourceTree = "<group>"; };
+		DA1C0D592BBC20C70030F5D4 /* HeaderCollectionReusableViewProgramatically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCollectionReusableViewProgramatically.swift; sourceTree = "<group>"; };
+		DA1C0D5B2BBC21B70030F5D4 /* FooterCollectionReusableViewProgramatically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterCollectionReusableViewProgramatically.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +104,7 @@
 		DA1C0D082BBBBA850030F5D4 /* CollectionViewList */ = {
 			isa = PBXGroup;
 			children = (
+				DA1C0D1D2BBBBCFA0030F5D4 /* Controllers */,
 				DA1C0D092BBBBA850030F5D4 /* AppDelegate.swift */,
 				DA1C0D0B2BBBBA850030F5D4 /* SceneDelegate.swift */,
 				DA1C0D0D2BBBBA850030F5D4 /* ViewController.swift */,
@@ -65,6 +114,133 @@
 				DA1C0D172BBBBA870030F5D4 /* Info.plist */,
 			);
 			path = CollectionViewList;
+			sourceTree = "<group>";
+		};
+		DA1C0D1D2BBBBCFA0030F5D4 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D552BBC1EBA0030F5D4 /* ProgramaticallyCollectionViewHeadersFooters */,
+				DA1C0D482BBC00EB0030F5D4 /* WaterFallLayoutCollectionView */,
+				DA1C0D452BBBFBA50030F5D4 /* CollectionViewGridProgramatically */,
+				DA1C0D3B2BBBE3560030F5D4 /* InstragramLikeStory */,
+				DA1C0D362BBBDD410030F5D4 /* CollectionViewHeadersFootersViewController */,
+				DA1C0D262BBBC5000030F5D4 /* CollectionViewInsideTableViewController */,
+				DA1C0D252BBBC4EC0030F5D4 /* GridBasedCollectionVIewController */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		DA1C0D202BBBC19F0030F5D4 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D212BBBC1BB0030F5D4 /* FirstCollectionViewCell.swift */,
+				DA1C0D222BBBC1BB0030F5D4 /* FirstCollectionViewCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		DA1C0D252BBBC4EC0030F5D4 /* GridBasedCollectionVIewController */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D202BBBC19F0030F5D4 /* Cells */,
+				DA1C0D1E2BBBBD2B0030F5D4 /* GirdBasedCollectionViewController.swift */,
+			);
+			path = GridBasedCollectionVIewController;
+			sourceTree = "<group>";
+		};
+		DA1C0D262BBBC5000030F5D4 /* CollectionViewInsideTableViewController */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D272BBBC5100030F5D4 /* Cells */,
+				DA1C0D282BBBC5450030F5D4 /* CollectionViewInsideTVController.swift */,
+				DA1C0D2C2BBBCC730030F5D4 /* SecondMain.storyboard */,
+			);
+			path = CollectionViewInsideTableViewController;
+			sourceTree = "<group>";
+		};
+		DA1C0D272BBBC5100030F5D4 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D2E2BBBCF260030F5D4 /* CollectionTableViewCell.swift */,
+				DA1C0D2F2BBBCF260030F5D4 /* CollectionTableViewCell.xib */,
+				DA1C0D322BBBD2E20030F5D4 /* CollectionViewCell.swift */,
+				DA1C0D332BBBD2E20030F5D4 /* CollectionViewCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		DA1C0D362BBBDD410030F5D4 /* CollectionViewHeadersFootersViewController */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D4E2BBC16840030F5D4 /* cells */,
+				DA1C0D372BBBDD620030F5D4 /* CVHeaderFooter.storyboard */,
+				DA1C0D392BBBDD7D0030F5D4 /* CollectionViewHeaderFooterViewController.swift */,
+			);
+			path = CollectionViewHeadersFootersViewController;
+			sourceTree = "<group>";
+		};
+		DA1C0D3B2BBBE3560030F5D4 /* InstragramLikeStory */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D402BBBE3860030F5D4 /* Cells */,
+				DA1C0D3C2BBBE3720030F5D4 /* InstragramStory.storyboard */,
+				DA1C0D3E2BBBE3830030F5D4 /* InstagramStoryViewController.swift */,
+			);
+			path = InstragramLikeStory;
+			sourceTree = "<group>";
+		};
+		DA1C0D402BBBE3860030F5D4 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D412BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.swift */,
+				DA1C0D422BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		DA1C0D452BBBFBA50030F5D4 /* CollectionViewGridProgramatically */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D462BBBFBD10030F5D4 /* CollectionViewGridProgrammaticallyViewController.swift */,
+			);
+			path = CollectionViewGridProgramatically;
+			sourceTree = "<group>";
+		};
+		DA1C0D482BBC00EB0030F5D4 /* WaterFallLayoutCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D492BBC026B0030F5D4 /* WaterFall.storyboard */,
+				DA1C0D4B2BBC028A0030F5D4 /* WaterFallCollectionViewController.swift */,
+			);
+			path = WaterFallLayoutCollectionView;
+			sourceTree = "<group>";
+		};
+		DA1C0D4E2BBC16840030F5D4 /* cells */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D4F2BBC16B00030F5D4 /* HeaderCollectionReusableView.swift */,
+				DA1C0D502BBC16B10030F5D4 /* HeaderCollectionReusableView.xib */,
+				DA1C0D532BBC182F0030F5D4 /* FooterCollectionReusableView.swift */,
+			);
+			path = cells;
+			sourceTree = "<group>";
+		};
+		DA1C0D552BBC1EBA0030F5D4 /* ProgramaticallyCollectionViewHeadersFooters */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D582BBC20AA0030F5D4 /* cells */,
+				DA1C0D562BBC1EE00030F5D4 /* ProgramaticallyCollectionViewHeaderFooterViewController.swift */,
+			);
+			path = ProgramaticallyCollectionViewHeadersFooters;
+			sourceTree = "<group>";
+		};
+		DA1C0D582BBC20AA0030F5D4 /* cells */ = {
+			isa = PBXGroup;
+			children = (
+				DA1C0D592BBC20C70030F5D4 /* HeaderCollectionReusableViewProgramatically.swift */,
+				DA1C0D5B2BBC21B70030F5D4 /* FooterCollectionReusableViewProgramatically.swift */,
+			);
+			path = cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +302,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA1C0D162BBBBA870030F5D4 /* LaunchScreen.storyboard in Resources */,
+				DA1C0D442BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.xib in Resources */,
+				DA1C0D3D2BBBE3720030F5D4 /* InstragramStory.storyboard in Resources */,
+				DA1C0D382BBBDD620030F5D4 /* CVHeaderFooter.storyboard in Resources */,
+				DA1C0D352BBBD2E20030F5D4 /* CollectionViewCell.xib in Resources */,
+				DA1C0D312BBBCF260030F5D4 /* CollectionTableViewCell.xib in Resources */,
 				DA1C0D132BBBBA870030F5D4 /* Assets.xcassets in Resources */,
 				DA1C0D112BBBBA850030F5D4 /* Main.storyboard in Resources */,
+				DA1C0D522BBC16B10030F5D4 /* HeaderCollectionReusableView.xib in Resources */,
+				DA1C0D242BBBC1BB0030F5D4 /* FirstCollectionViewCell.xib in Resources */,
+				DA1C0D4A2BBC026B0030F5D4 /* WaterFall.storyboard in Resources */,
+				DA1C0D2D2BBBCC730030F5D4 /* SecondMain.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +323,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA1C0D512BBC16B10030F5D4 /* HeaderCollectionReusableView.swift in Sources */,
+				DA1C0D572BBC1EE00030F5D4 /* ProgramaticallyCollectionViewHeaderFooterViewController.swift in Sources */,
+				DA1C0D542BBC182F0030F5D4 /* FooterCollectionReusableView.swift in Sources */,
+				DA1C0D292BBBC5450030F5D4 /* CollectionViewInsideTVController.swift in Sources */,
+				DA1C0D232BBBC1BB0030F5D4 /* FirstCollectionViewCell.swift in Sources */,
+				DA1C0D342BBBD2E20030F5D4 /* CollectionViewCell.swift in Sources */,
+				DA1C0D4C2BBC028A0030F5D4 /* WaterFallCollectionViewController.swift in Sources */,
+				DA1C0D1F2BBBBD2B0030F5D4 /* GirdBasedCollectionViewController.swift in Sources */,
+				DA1C0D302BBBCF260030F5D4 /* CollectionTableViewCell.swift in Sources */,
+				DA1C0D432BBBE4C40030F5D4 /* InstagramStoryCollectionViewCell.swift in Sources */,
+				DA1C0D3A2BBBDD7D0030F5D4 /* CollectionViewHeaderFooterViewController.swift in Sources */,
 				DA1C0D0E2BBBBA850030F5D4 /* ViewController.swift in Sources */,
 				DA1C0D0A2BBBBA850030F5D4 /* AppDelegate.swift in Sources */,
+				DA1C0D5A2BBC20C70030F5D4 /* HeaderCollectionReusableViewProgramatically.swift in Sources */,
+				DA1C0D5C2BBC21B70030F5D4 /* FooterCollectionReusableViewProgramatically.swift in Sources */,
+				DA1C0D472BBBFBD10030F5D4 /* CollectionViewGridProgrammaticallyViewController.swift in Sources */,
 				DA1C0D0C2BBBBA850030F5D4 /* SceneDelegate.swift in Sources */,
+				DA1C0D3F2BBBE3830030F5D4 /* InstagramStoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +500,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -328,6 +529,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
